@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rony</h1>
-<h3 align="center">A passionate software developer from India.</h3>
+<h3 align="center">Another algorithm developer from India.</h3>
 
-- 🔭 I’m currently working on **Gujju Ai**
+- 🔭 I’m currently working on Building Advance algorithms.
 
-- 🌱 I’m currently learning **Networking and machine learning**
+- 🌱 I’m currently learning **Machine learning**
 
-- 👯 I’m looking to collaborate on **Gujju Ai**
+- 👯 I’m looking to collaborate on **Number plate Detection System**
 
 - 💬 Ask me about **Python and machine learning**
 
